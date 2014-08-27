@@ -12,9 +12,9 @@ Renders it in glorious ANSIColor for your viewing joy.
 
 ## Resources
 
-* [Sockets](https://developer.chrome.com/apps/sockets_tcp)
-* [Runtime](https://developer.chrome.com/apps/app_runtime)
-* [Window](https://developer.chrome.com/apps/app_window)
+* [Socket API](http://developer.chrome.com/apps/socket.html)
+* [Runtime](http://developer.chrome.com/apps/app.runtime.html)
+* [Window](http://developer.chrome.com/apps/app.window.html)
 
 ## Credits
 
